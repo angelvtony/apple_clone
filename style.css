@@ -1,0 +1,351 @@
+body{
+    margin: 0%;
+    text-align: center;
+}
+.navbar{
+    background-color: rgba(0, 0, 0, 0.8);
+    position: fixed;
+    top: 0;
+    width: 100%;
+    backdrop-filter: saturate(180%) blur(20px);
+}
+.navbar a {
+    float: right;
+    display: block;
+    color: #f2f2f2;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 15px;
+  }
+img {
+    display: block;
+    width: 110%;
+    height: 650px;
+    margin-left: auto;
+    margin-right: auto;
+  }
+.iph{
+    position: absolute;
+    top: 109px;
+    left: 613px;
+    font-size: 28px;
+    line-height: 1.07143;
+    font-weight: 600;
+    letter-spacing: -.005em;
+    font-family: "SF Pro Display","SF Pro Icons","Helvetica Neue","Helvetica","Arial",sans-serif;
+}
+.sub{
+    margin-top: -38px;
+    font-weight: lighter;
+}
+.learn{
+    text-decoration: none;
+    font-size: 20px;
+    position: absolute;
+    top: 137px;
+    left: 42px;
+    color: #06c;
+    font-weight: lighter;
+}
+.buy{
+    text-decoration: none;
+    font-size: 20px;
+    position: absolute;
+    top: 137px;
+    left: 219px;
+    color: #06c;
+    font-weight: lighter;
+}
+.iphse{
+    text-align: center;
+    top: 800px;
+    left: 663px;
+    font-size: 28px;
+    line-height: 1.07143;
+    font-weight: 600;
+    letter-spacing: -.005em;
+    font-family: "SF Pro Display","SF Pro Icons","Helvetica Neue","Helvetica","Arial",sans-serif;
+}
+.new{
+    margin-top: -623px;
+}
+.love{
+    margin-bottom: 17px;
+    padding-left: 60px;
+    margin-top: -19px;
+    font-weight: lighter;
+}
+.iph13{
+    margin-bottom: 30px;
+    width: 100%;
+    
+}
+.se{
+    margin-top: -30px;
+    margin-left: 17px;
+    font-weight: bold;
+    cursor: pointer;
+}
+.iphonese{
+    width: 100%;
+    margin: 38px;
+    margin-left: 0%;
+}
+.lea{
+    text-decoration: none;
+    font-size: 20px;
+    color: #06c;
+    font-weight: lighter;
+    font-family: sans-serif;
+}
+.bu{
+    text-decoration: none;
+    font-size: 20px;
+    color: #06c;
+    margin-left: 28px;
+    font-weight: lighter;
+    font-family: sans-serif;
+}
+.iphose{
+    margin-left: 55px;
+}
+.frame{
+    padding-top: 425px;
+    height: 80%;
+}
+.apples{
+    margin-top: -525px;
+    color: white;
+    font-size: 60px;
+    font-family: sans-serif;
+    font-weight: lighter;
+}
+.apple{
+    color: white;
+}
+.tv{
+    font-weight: lighter;
+}
+.pre{
+    font-weight: lighter;
+    margin-top: -69px;
+    font-size: 108px;
+    font-family: 'Teko', sans-serif;
+}
+.epic{
+    margin-top: -119px;
+    font-size: 27px;
+    margin-bottom: 0%;
+}
+.btn{
+    border-radius: 80px;
+    border: none;
+    padding: 0 20px;
+    cursor: pointer;
+    align-items: center;
+    height: 44px;
+    width: 170px;
+    font-weight: bold;
+}
+.wwdc{
+    width: 50%;
+    float: left;
+    margin-top: 150px;
+}
+.prod{
+    width: 50%;
+    float: right;
+    margin-top: 150px;
+}
+.grid{
+    margin: 10px;
+}
+.png{
+    margin-top: -163px;
+    width: 200px;
+    height: 42px;
+    cursor: pointer;
+}
+.dev{
+    color: rgb(198, 225, 230);
+    font-size: 21px;
+    line-height: 1.2381;
+    font-weight: 400;
+    letter-spacing: 0.016em;
+}
+.privacy{
+    width: 50%;
+    float: left;
+    margin-top: 40px;
+}
+.watch{
+    width: 50%;
+    float: left;
+    margin-top: 18px;
+}
+.pri{
+    margin-top: -542px;
+    color: white;
+    font-family:  sans-serif;
+    font-size: 25px;
+    font-weight: lighter !important;
+}
+.date{
+    text-align: center;
+    color: #bf4800;
+    position: absolute;
+    top: 2354px;
+    left: 1060px;
+    font-size: 19px;
+    line-height: 1.21053;
+    font-weight: 600;
+    letter-spacing: .012em;
+    font-family: "SF Pro Display","SF Pro Icons","Helvetica Neue","Helvetica","Arial",sans-serif;
+}
+.dat{
+    text-align: center;
+    color: #000000;
+    position: absolute;
+    top: 2387px;
+    left: 997px;
+    font-size: 35px;
+    line-height: 1.21053;
+    font-weight: 600;
+    letter-spacing: .012em;
+    font-family: "SF Pro Display","SF Pro Icons","Helvetica Neue","Helvetica","Arial",sans-serif;
+}
+.ben{
+    text-align: center;
+    color: #000000;
+    position: absolute;
+    top: 2494px;
+    left: 989px;
+    font-size: 21px;
+    line-height: 1.21053;
+    font-weight: lighter;
+    letter-spacing: .012em;
+    font-family: "SF Pro Display","SF Pro Icons","Helvetica Neue","Helvetica","Arial",sans-serif;
+}
+.learnn{
+    text-align: center;
+    text-decoration: none;
+    font-size: 20px;
+    color: #06c;
+    font-weight: lighter;
+    position: absolute;
+    top: 2587px;
+    left: 1114px;
+    font-family: sans-serif;
+}
+.series{
+    position: absolute;
+    top: 2967px;
+    left: 1020px;
+    cursor: pointer;
+}
+.h5{
+    position: absolute;
+    top: 2998px;
+    left: 998px;
+    font-family: sans-serif;
+    font-weight: lighter;
+    font-size: 21px;
+    line-height: 1.2381;
+    font-weight: 400;
+    letter-spacing: .016em;
+}
+.card{
+    width: 50%;
+    float: left;
+}
+.pride{
+    width: 50%;
+    float: right;
+}
+.applecard{
+    position: absolute;
+    top: 3500px;
+    left: 275px;
+    cursor: pointer;
+}
+.cash{
+    position: absolute;
+    top: 3551px;
+    left: 215px;
+    font-family: sans-serif;
+    font-weight: lighter;
+    font-size: 21px;
+    line-height: 1.2381;
+    font-weight: 400;
+    letter-spacing: .016em;
+}
+.threads{
+    position: absolute;
+    top: 3499px;
+    left: 1042px;
+    font-family: sans-serif;
+    font-size: 40px;
+    font-weight: 600;
+}
+.prides{
+    position: absolute;
+    top: 3577px;
+    left: 1082px;
+    cursor: pointer;
+}
+.dot{
+    position: absolute;
+    top: 3576px;
+    left: 1207px;
+    font-size: 40px;
+}
+.foot{
+    text-align: center;
+    width: 915px;
+    position: absolute;
+    top: 4135px;
+    left: 300px;
+    display: block;
+    text-align: justify;
+    font-family: sans-serif;
+    font-size: 12px;
+    line-height: 1.33337;
+    font-weight: 400;
+    color: gray; 
+}
+* {
+    box-sizing: border-box;
+  }
+  
+.row {
+    display: flex;
+    position: absolute;
+    top: 4653px;
+    left: 301px;
+    width: 60%;
+  }
+.column {
+    flex: 20%;
+    padding: 10px;
+    height: 300px;
+    text-align: justify;
+    line-height: 1.33337;
+    font-family: sans-serif;
+    font-size: 12px;
+    color: gray;
+  }
+.ac{
+    text-decoration: none;
+    color: gray;
+    line-height: 2.33337;
+}
+.toll{
+    position: absolute;
+    top: 5060px;
+    left: 301px;
+    width: 60%;
+    color: gray;
+    font-family: sans-serif;
+    font-size: 12px;
+}
